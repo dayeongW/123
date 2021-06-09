@@ -7,6 +7,8 @@ public class Run {
 		System.out.println("first commit..");
 		// test...
 		// 된건가...
+		// 됐다!!
+		
 	}
 
 }
